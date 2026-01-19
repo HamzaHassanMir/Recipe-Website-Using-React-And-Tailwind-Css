@@ -1,0 +1,10 @@
+.background-container {
+  background-image: url("../src/assets/backgroundIMAGE.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: darken;
+}
